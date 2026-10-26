@@ -1,0 +1,6 @@
+"dataset","rows","original_variables","complete_rows","missing_cells","angle_fields"
+"01_galicia_wind",19488,6,19206,486,"Direction"
+"02_homing_pigeons",108,2,108,0,"bearing"
+"03_icu_arrival_times",254,1,254,0,"time"
+"04_feldspar_orientations",133,1,133,0,"axis"
+"05_paleomagnetic_poles",50,2,50,0,"lat; long"
